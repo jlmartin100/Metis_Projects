@@ -31,10 +31,10 @@ We chose this date range based on the following assumptions:
 3) Since the gala would occur in early summer, data just prior to the early summer period was desirable.
 
 ### Tools Used 
-  Pandas
-  Matplotlib
-  Seaborn
-  The map generator at [https://www.subwayridership.nyc/](https://www.subwayridership.nyc/)
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - The map generator at [https://www.subwayridership.nyc/](https://www.subwayridership.nyc/)
   
 ### Possible Impacts:
 
