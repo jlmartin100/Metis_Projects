@@ -26,9 +26,9 @@ Using these variables, we analyzed:
 
 We chose this date range based on the following assumptions:
 
-1) The gala would only occur in a post-COVID return to normal movement and gathering
-2) Data prior to 2020 would be needed in order to analyze normal traffic patterns
-3) Since the gala would occur in early summer, data just prior to the early summer period was desirable.
+- The gala would only occur in a post-COVID return to normal movement and gathering
+- Data prior to 2020 would be needed in order to analyze normal traffic patterns
+- Since the gala would occur in early summer, data just prior to the early summer period was desirable.
 
 ### Tools Used 
   - Pandas
