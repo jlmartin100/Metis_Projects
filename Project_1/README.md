@@ -6,6 +6,19 @@ The prompt for the project was an email from a fictional organization, Women Tec
 
 ### Features and Target Variables
 
+The original dataset consisted of eleven columns of data, comprised of the audit date, station name, control area, remote unit, SCP (original turnstile), number of entries, and number of exits, as well as the MTA division, the train lines served by that turnstile, and a description column pertaining to the auditing of the turnstile entries and exits.  
+
+Our focus here was on the **date and time** features, the combination of **control area/remote unit/individual turnstile unit**, and the **entries counts**.
+
+Our target variables were the **turnstile entries totals and averages**, computed by station and by control area/remote unit/SCP sub unit, and calculated as daily totals, weekly averages, and week over week averages to show highest traffic days of the week.
+
+Using these variables, we analyzed:
+
+- the stations with the highest average weekly turnstile traffic for the date range chosen
+- the highest turnstile usage per control area/unit
+- the average weekly activity, plotted week over to week to visualize highest traffic days of the week
+- the top five highest weekly average turnstiles for the top three highest weekly average stations
+
 ### Data Used 
 **Source**:     [http://web.mta.info/developers/turnstile.html](http://web.mta.info/developers/turnstile.html).  
 
