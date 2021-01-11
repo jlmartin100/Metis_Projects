@@ -34,8 +34,9 @@ We chose this date range based on the following assumptions:
   - Pandas
   - Matplotlib
   - Seaborn
+  - Adobe Illustrator
   - The map generator at [https://www.subwayridership.nyc/](https://www.subwayridership.nyc/)
-  
+
 ### Possible Impacts:
 
 In the fictional scenario given by the prompt, our analysis would support WTWY in building their e-mail leads list to maximize their fundraising, invite a broad range of gala guests, and potentially invite gala guests to their programs promoting the inclusion of women in the technology sector.
