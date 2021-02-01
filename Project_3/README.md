@@ -4,12 +4,12 @@
 Does immunosuppression represent greater risk for COVID mortality?  Does it represent greater risk for ventilation or for intensive critical care?  
 
 ### Features and Target Variables
-Targets:
-mortality (represented by `date_died`)
-ICU admission
-intubation
+#### Targets:
+- mortality (represented by `date_died`)
+- ICU admission
+- intubation
 
-Features:
+#### Features:
 * Age
 * Sex
 * COVID test result
@@ -28,11 +28,16 @@ Features:
 Dataset including ~550,000 patients in Mexican hospitals, collected by the government of Mexico.  
 
 ### Tools Used
-SKLearn
+#### SKLearn
+    - logistic regression
+    - Naive Bayes
+    - K Nearest Neighbors
+    - metrics
 
-Seaborn
-
-Matplotlib
+#### Seaborn
+    - heatmap
+    
+#### Matplotlib
 
 
 ### Possible impacts
