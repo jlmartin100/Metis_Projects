@@ -25,7 +25,7 @@ Does immunosuppression represent greater risk for COVID mortality?  Does it repr
   
 
 ### Data Used
-Dataset including ~550,000 patients in Mexican hospitals, collected by the government of Mexico.  
+The dataset was initially obtained from the government of Mexico's [open data portal](https://www.gob.mx/salud/documentos/datos-abiertos-152127).  Dataset includes ~550,000 COVID patients in Mexican hospitals, collected between January 1, 2020 and June 30, 2020.  
 
 ### Tools Used
 #### SKLearn
