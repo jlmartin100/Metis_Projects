@@ -32,9 +32,9 @@ One further topic was salient in the Arabic tweet data:
   - count vectorizer and TF-IDF to create document-term matrices
   - non-negative matrix factorization for preliminary topic modeling
   
-*Word2Vec* - creation of custom embeddings from the two tweet corpora
+**Word2Vec** - creation of custom embeddings from the two tweet corpora
 
-*CorEx* - customized topic modeling using anchor words discovered through investigation with the embeddings.
+**CorEx** - customized topic modeling using anchor words discovered through investigation with the embeddings.
 
 ## Possible Impacts
 
